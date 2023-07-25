@@ -1,0 +1,296 @@
+11/18/22, 11:59 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+11/18/22, 11:59 - You created group "Proyecto Calidad Software"
+11/22/22, 19:03 - Sofi⚡calidad Software: Mañana empezamos la práctica en la hora de clase no?
+11/22/22, 19:03 - Sofi⚡calidad Software: He visto que tenemos que hacer mínimo dos llamadas en Teams, por si podeis este finde hacemos ya una.
+11/22/22, 19:05 - Robert: Me parece bien. Podemos quitarlonos del medio y organizar un poco el trabajo
+11/22/22, 19:11 - Mañas Calidad Software: Perfecto
+11/25/22, 11:57 - Robert: Estoy en clase
+Carolina ha estado explicando un poco más sobre que hay que hacer en la práctica
+En la primera parte habrá que desarrollar sistema de gestión de calidad para nuestra startup. En esta primera parte trabajaremos todos, será un trabajo en grupo.  
+La segunda parte del trabajo (Process	Specification) es individual y cada uno de nosotros especificará y detallará un proceso
+11/25/22, 12:04 - Sofi⚡calidad Software: Aa vale vale entiendo
+11/25/22, 12:04 - Luna calidad Software: Vale
+11/25/22, 12:05 - Mañas Calidad Software: Okey
+11/25/22, 12:05 - Sofi⚡calidad Software: Pues nos vamos poniendo con la primera parte hoy en llamada
+11/25/22, 12:06 - Robert: Sobré qué hora quedamos?
+11/25/22, 12:06 - Sofi⚡calidad Software: Dijimos sobre las 1700 creo
+11/25/22, 12:07 - Robert: Perfecto. Quedamos por el grupo de teams creado
+11/25/22, 12:08 - Sofi⚡calidad Software: Valep
+11/25/22, 12:16 - Cesar Calidad G Elias: Eeeeeeh uf
+11/25/22, 12:17 - Cesar Calidad G Elias: Yo tengo que irme a Guadalajara e igual llego más tarde
+11/25/22, 12:17 - Cesar Calidad G Elias: Igual llego a guada a las 18:00
+11/25/22, 12:17 - Cesar Calidad G Elias: Podríamos quedar mañana mejor??
+11/25/22, 12:17 - Cesar Calidad G Elias: No sé si os va bien
+11/25/22, 12:19 - Sofi⚡calidad Software: Luna no podia
+11/25/22, 12:20 - Luna calidad Software: Mañana sí
+11/25/22, 12:20 - Robert: Mañana por la mañana únicamente
+11/25/22, 12:20 - Luna calidad Software: Era hoy cuando estaba más complicado
+11/25/22, 12:20 - Robert: Por la tarde yo no puedo
+11/25/22, 12:20 - Luna calidad Software: Mañana por la mañana a mí me va bien
+11/25/22, 12:20 - Mañas Calidad Software: Malana a las 11 o por ahi
+11/25/22, 12:20 - Sofi⚡calidad Software: Aa vale vale, entonces si todo el mundo puede lo movemos al sabado. Yo tengo partido por la mañana, estoy a partir de las 1100 mas o menos
+11/25/22, 12:21 - Luna calidad Software: A las 11:00 mañana entonces m
+11/25/22, 12:21 - Luna calidad Software: ?*
+11/25/22, 12:21 - Cesar Calidad G Elias: A mi me va bien
+11/25/22, 12:21 - Robert: Ok. A las 11
+11/25/22, 12:21 - Mañas Calidad Software: Vale
+11/26/22, 18:36 - Sofi⚡calidad Software: Viendo que hemos tenido que moverlo, a que hora podeis mañana? A la misma?
+11/26/22, 18:37 - Cesar Calidad G Elias: Yo prefiero por la tarde que ya se hayan ido mis sobrinas de casa
+11/26/22, 18:37 - Cesar Calidad G Elias: Pero poder puedo todo el día
+11/26/22, 18:55 - Mañas Calidad Software: Yo prefiero antes de comer pero puedo todo el dia
+11/26/22, 19:18 - Luna calidad Software: A mí me da igual, cuando podamos
+11/27/22, 17:05 - Sofi⚡calidad Software: Ahora entro a la llamada
+11/27/22, 17:23 - Sofi⚡calidad Software: Looka
+11/30/22, 11:03 - Sofi⚡calidad Software: Voy ahora a clase
+11/30/22, 12:11 - Robert: Bien, chicos. Me alegro de que hayamos podido avanzar con el proyecto hoy en clase
+11/30/22, 12:11 - Robert: Nos vemos el viernes
+12/2/22, 11:03 - Robert: Estáis alguna en clase ? 
+Yo terminé la parte del modelado de procesos
+Quedaría solo reunirnos para hacer el PowerPoint
+12/2/22, 11:32 - Sofi⚡calidad Software: Tendriamos que hacer otra  llamada  en algun momento
+12/2/22, 12:13 - Cesar Calidad G Elias: Sep
+12/2/22, 12:13 - Cesar Calidad G Elias: Yo lo voy a terminar este finde probablemente mañana
+12/2/22, 16:52 - Sofi⚡calidad Software: Que dia os viene bien hacerla? El lunes?
+12/2/22, 16:54 - Robert: El lunes por la tarde, sí
+12/2/22, 16:55 - Mañas Calidad Software: Yo los lunes puedo a partir de las 7 o antes de las 5
+12/2/22, 16:55 - Mañas Calidad Software: Aunk podeis empezar/terminar sin mi
+12/2/22, 17:29 - Luna calidad Software: Yo por la tarde no puedo, que tengo clase
+12/2/22, 17:31 - Sofi⚡calidad Software: Y martes?
+12/2/22, 17:39 - Cesar Calidad G Elias: Yo igual
+12/2/22, 17:39 - Cesar Calidad G Elias: Que esto digo*
+12/2/22, 17:40 - Sofi⚡calidad Software: Yo esque tengo examen de 9 a 13
+12/2/22, 17:40 - Sofi⚡calidad Software: El lunes
+12/2/22, 18:28 - Mañas Calidad Software: El martes yo puedo
+12/3/22, 23:05 - Luna calidad Software: El martes es fiesta
+12/3/22, 23:05 - Luna calidad Software: Podemos ponernos un rato y grabar la reunión
+12/3/22, 23:05 - Luna calidad Software: No creo que nos lleve mucho
+12/4/22, 08:09 - Sofi⚡calidad Software: valep
+12/4/22, 12:47 - Cesar Calidad G Elias: Yes
+12/4/22, 13:12 - Robert: Vale, me parece bien
+El martes podemos quedar
+12/5/22, 19:19 - Sofi⚡calidad Software: A que hora?
+12/5/22, 19:36 - Luna calidad Software: 10?
+12/5/22, 19:48 - Sofi⚡calidad Software: Por mi bien
+12/5/22, 20:01 - Robert: Vale. Me parece bien
+12/5/22, 21:13 - Mañas Calidad Software: Okey
+12/6/22, 09:53 - Robert: Os viene vien retrasar un poco ls reunión? Estilo 10!30
+Estoy todavía en la cama
+Me acabo de despertar
+12/6/22, 09:55 - Sofi⚡calidad Software: Va
+12/6/22, 09:57 - Luna calidad Software: Yo me tengo que ir a las 11
+12/6/22, 09:58 - Luna calidad Software: Entonces voy a empezar haciendo mi parte y me uno un rato a la reunión hasta que me tenga que ir
+12/6/22, 10:04 - Luna calidad Software: He encontrado una plantilla chula, voy a empezar escribiendo ahí. La he subido a la carpeta
+12/6/22, 10:04 - Luna calidad Software: Si no os gusta simplemente coged otra
+12/6/22, 10:05 - Sofi⚡calidad Software: Valep, no problem
+12/6/22, 10:25 - Cesar Calidad G Elias: Eh chicos me ha surgido algo
+12/6/22, 10:25 - Cesar Calidad G Elias: Tengo que llevar a un amigo al hospital
+12/6/22, 10:25 - Cesar Calidad G Elias: Aún no he hecho mi proceso, no he tenido tiempo
+12/6/22, 10:26 - Cesar Calidad G Elias: Pero esta tarde lo voy a hacer asique si eso id haciendo lo vuestro y cuando termine lo mío lo incorporo con la misma plantilla- estilo que hayáis decidido
+12/6/22, 10:31 - Luna calidad Software: Vale
+12/6/22, 10:31 - Luna calidad Software: Estamos para la reunión?
+12/6/22, 10:32 - Robert: En 2 min estoy
+12/6/22, 11:02 - Sofi⚡calidad Software: <Media omitted>
+12/6/22, 11:11 - Sofi⚡calidad Software: <Media omitted>
+12/6/22, 18:00 - Luna calidad Software: Mañana acabamos en clase entonces la presentación?
+12/6/22, 18:01 - Sofi⚡calidad Software: Habiamos dicho en llamada que como lo que falta es indivudual que tampoco hay que ir y tal
+12/6/22, 18:02 - Sofi⚡calidad Software: Yo estare por la uni, por si decides ir y tal
+12/6/22, 18:05 - Luna calidad Software: Vale
+12/6/22, 20:10 - Sofi⚡calidad Software: yo he terminado mi parte de las presentaciones, aunque sigo teniendo la duda del flowchart asi que le preguntare mañana
+12/6/22, 20:11 - Sofi⚡calidad Software: lo he hecho con los colores de la presentación para hacerlo un poco interesante
+12/6/22, 20:13 - Mañas Calidad Software: Queda muy bien lo de los colores
+12/6/22, 20:13 - Sofi⚡calidad Software: he visto varias ideas asi, por si quereis hacer algo parecido
+12/7/22, 11:14 - Sofi⚡calidad Software: alcance, indicadores, roles
+12/7/22, 11:14 - Sofi⚡calidad Software: son las tres cosas que acaba de mencionar sobre los procesos en la presentaci'on
+12/7/22, 11:15 - Sofi⚡calidad Software: No quiere que le expliquemos el flowchart
+12/7/22, 11:16 - Luna calidad Software: Vale
+12/7/22, 11:17 - Sofi⚡calidad Software: tendriamo enttonces que adaptar la que hemos hecho de flowchart a lo otro par ahacerlo más dinámico
+12/7/22, 11:25 - Sofi⚡calidad Software: ahora le pregunto si especficamente quiere que ni lo metamos el flowchart en la presentación
+12/7/22, 14:19 - Robert: Para aclarar, en la presentación cada uno hablando sobre el proceso que haya modelado solo hablamos sobre el alcance, indicadores y los roles ?
+12/7/22, 14:20 - Sofi⚡calidad Software: Hablas de ub ppco de todo
+12/7/22, 14:20 - Sofi⚡calidad Software: Pero te centras en lo que tu veas que es mas interesante
+12/7/22, 14:20 - Sofi⚡calidad Software: Tambien depende del tiempo que tengas
+12/7/22, 14:25 - Robert: Quién falta por terminar sus diapositivas de la presentación ?
+12/7/22, 14:25 - Cesar Calidad G Elias: Yo
+12/7/22, 14:25 - Cesar Calidad G Elias: Estoy con el proceso ahora
+12/7/22, 14:27 - Sofi⚡calidad Software: Yo necesuto modificar algo que me ha dicho en clase, y termunar la parte de stakeholders
+12/7/22, 14:27 - Sofi⚡calidad Software: Pero acabo eso cuando llegue a casa
+12/7/22, 15:30 - Mañas Calidad Software: Yo
+12/7/22, 18:43 - Sofi⚡calidad Software: He terminado toda mi parte
+12/7/22, 18:43 - Sofi⚡calidad Software: Cuando acabes avisa y formateamos el word @34691920666
+12/7/22, 18:43 - Cesar Calidad G Elias: Okey
+12/7/22, 18:43 - Cesar Calidad G Elias: Tengo que llegar a Guada y terminarlo
+12/7/22, 18:43 - Cesar Calidad G Elias: Que salgo dentro de nada
+12/7/22, 18:43 - Sofi⚡calidad Software: Recuerda que la entrega es mañana por la noche
+12/7/22, 18:43 - Sofi⚡calidad Software: Sip, no worries
+12/7/22, 18:44 - Sofi⚡calidad Software: Esta todo lo demas hecho asi que tampoco te agobies, tiempo da
+12/8/22, 11:38 - Sofi⚡calidad Software: Que tal vas?
+12/8/22, 11:55 - Cesar Calidad G Elias: bien
+12/8/22, 11:55 - Cesar Calidad G Elias: terminando el flowchart
+12/8/22, 11:55 - Cesar Calidad G Elias: This message was deleted
+12/8/22, 11:55 - Cesar Calidad G Elias: This message was deleted
+12/8/22, 11:55 - Cesar Calidad G Elias: This message was deleted
+12/8/22, 11:56 - Cesar Calidad G Elias: el diagrama sorry
+12/8/22, 11:56 - Sofi⚡calidad Software: Cuando acabes con el word avisa plis parw formatearlo
+12/8/22, 11:56 - Cesar Calidad G Elias: y lo demás lo tengo en el pen que ayer tuve que trabajar offline
+12/8/22, 11:56 - Cesar Calidad G Elias: y no pude hacer el diagrama en draw.io, lo hice en Paint xd
+12/8/22, 12:01 - Sofi⚡calidad Software: Puf xD
+12/8/22, 13:01 - Cesar Calidad G Elias: ya lo he terminado
+12/8/22, 13:12 - Sofi⚡calidad Software: Perfect, ahora lo formeteo y lo paso, lo miramos todos por si hay algo mal y lo mandamos ya si os parece
+12/8/22, 13:19 - Luna calidad Software: Genial
+12/8/22, 13:21 - Cesar Calidad G Elias: Okey
+12/8/22, 14:17 - Sofi⚡calidad Software: Cuando puedas haz tambien la presentacion tu parte plis, que tenemos que mandar las dos cosas
+12/8/22, 14:17 - Sofi⚡calidad Software: Yo ahora termuno estoque staba probando una cosa
+12/8/22, 14:25 - Cesar Calidad G Elias: Ah es verdad
+12/8/22, 14:25 - Cesar Calidad G Elias: Voy
+12/8/22, 15:18 - Sofi⚡calidad Software: <Media omitted>
+12/8/22, 15:18 - Sofi⚡calidad Software: <Media omitted>
+12/8/22, 15:18 - Sofi⚡calidad Software: Mando tambien el word por si quereis cambiar alguna cosa directamente
+12/8/22, 15:18 - Cesar Calidad G Elias: el power point esta en drive tb?
+12/8/22, 15:18 - Sofi⚡calidad Software: sip
+12/8/22, 15:18 - Sofi⚡calidad Software: spasio se llama
+12/8/22, 15:19 - Cesar Calidad G Elias: okey give me 15 minutes y lo hago
+12/8/22, 15:19 - Sofi⚡calidad Software: Valep, son las dos que hemos dejado en blanco
+12/8/22, 15:20 - Sofi⚡calidad Software: Alguien sabe si todos tenemos que entregarlo?
+12/8/22, 15:20 - Sofi⚡calidad Software: Bueno si no que lo suba uno cuando este terminado, y comprobamos si nos sale a todos como enviado
+12/8/22, 15:20 - Mañas Calidad Software: Se
+12/8/22, 15:21 - Sofi⚡calidad Software: Tengo que salir un segundo, pero eso, cualquier cosa que este mal o no os guste sentiros libres de cambiarlo
+12/8/22, 15:21 - Sofi⚡calidad Software: yo la portada la he p uesto asi para atarlo un poco con nuestra presentacion, pero eso, tocad lo que veais que puede estar mejor
+12/8/22, 15:28 - Mañas Calidad Software: La portada ha quedao muy bien
+12/8/22, 15:29 - Robert: Ha quedado muy chulo
+12/8/22, 15:29 - Robert: Gracias Sofi
+12/8/22, 15:30 - Sofi⚡calidad Software: Nadaa
+12/8/22, 18:09 - Robert: Entregamos el trabajo cada uno ? o con que lo haga solo uno vale. No encuentro donde pone eso
+12/8/22, 18:10 - Cesar Calidad G Elias: Voy a añadir ya la diapositiva
+12/8/22, 18:10 - Sofi⚡calidad Software: Ya, es lo que he dicho antes,no pone nada
+12/8/22, 18:10 - Sofi⚡calidad Software: Yo creo que uno lo entrega y vemos si nos cambia a los demas
+12/8/22, 18:10 - Sofi⚡calidad Software: En ek peor de los casos lo envuamos todos y ya
+12/8/22, 18:51 - Sofi⚡calidad Software: Lo de los videos y tal se tiene que enviar antes del 23, asi que sugiero envuarlo despues de presentar, por si hablamos mal y tal, para subir la conversacion completa
+12/8/22, 18:51 - Luna calidad Software: Qué vídeos?
+12/8/22, 18:51 - Robert: las reuniones
+12/8/22, 18:51 - Luna calidad Software: Vale
+12/8/22, 18:55 - Sofi⚡calidad Software: Sip, las reuniones y el chat de whatsapp
+12/8/22, 18:55 - Sofi⚡calidad Software: Ademas tebemos que rellenar un par de cuestionarios
+12/8/22, 18:55 - Sofi⚡calidad Software: Hoy enviamos la presentaicon y el pdf
+12/8/22, 19:40 - Sofi⚡calidad Software: @34691920666 has acabado?
+12/8/22, 19:40 - Cesar Calidad G Elias: sip
+12/8/22, 19:40 - Cesar Calidad G Elias: perdón que no he avisado
+12/8/22, 19:40 - Sofi⚡calidad Software: Lo envianos ya entonces no?
+12/8/22, 20:23 - Mañas Calidad Software: Por mi si
+12/8/22, 20:34 - Luna calidad Software: Sí
+12/8/22, 20:35 - Sofi⚡calidad Software: Os sale como enviado?
+12/8/22, 20:35 - Robert: Mañana tenemos que ir a clase?
+12/8/22, 20:35 - Sofi⚡calidad Software: Si
+12/8/22, 20:36 - Robert: <Media omitted>
+12/8/22, 20:36 - Robert: Si, sale como enviado
+12/8/22, 20:36 - Sofi⚡calidad Software: Perfect
+12/8/22, 20:53 - Cesar Calidad G Elias: perfecto
+12/8/22, 20:54 - Mañas Calidad Software: Que toca hacer mañana en clase?
+12/8/22, 20:57 - Robert: evaluar a los demás grupos
+12/8/22, 20:58 - Mañas Calidad Software: Mañana hay que presentar la presentacion?
+12/8/22, 20:58 - Cesar Calidad G Elias: Presentan otros pero como que hay que evaluar
+12/8/22, 20:58 - Cesar Calidad G Elias: Y es obligatorio ir
+12/8/22, 20:58 - Mañas Calidad Software: A pero a nosotros nos toca otro dia no?
+12/8/22, 20:58 - Mañas Calidad Software: Voy voy
+12/8/22, 20:59 - Cesar Calidad G Elias: El miércoles que viene
+12/8/22, 20:59 - Mañas Calidad Software: Thanks
+12/8/22, 21:00 - Sofi⚡calidad Software: El miercoles 14, los primeros
+12/9/22, 10:18 - Sofi⚡calidad Software: Estoy llendo exclusivamente para CS, y mi primer tren va con 20 minutos de demora🙃
+12/9/22, 10:18 - Cesar Calidad G Elias: Shit
+12/9/22, 10:18 - Cesar Calidad G Elias: Yo no voy a ir
+12/9/22, 10:18 - Luna calidad Software: Yo tengo que ir porque tengo luego examen a las 16
+12/9/22, 10:18 - Luna calidad Software: 🥲
+12/9/22, 10:19 - Cesar Calidad G Elias: Llevo toda la mañana tosiendo muchísimo y paso de estar interrumpiendo todas las presentaciones
+12/9/22, 10:19 - Sofi⚡calidad Software: Puf de que era?
+12/9/22, 10:19 - Sofi⚡calidad Software: Que te mejores
+12/9/22, 10:22 - Cesar Calidad G Elias: <Media omitted>
+12/9/22, 10:22 - Cesar Calidad G Elias: Gracias
+12/9/22, 10:22 - Luna calidad Software: ALP
+12/9/22, 10:23 - Sofi⚡calidad Software: Uff suertee
+12/9/22, 10:24 - Luna calidad Software: <Media omitted>
+12/9/22, 10:36 - Sofi⚡calidad Software: Tras 42 minutos esperando al frio me alegra anunciar que porfin ha llegado
+12/9/22, 10:37 - Cesar Calidad G Elias: Fcking finally
+12/9/22, 10:37 - Cesar Calidad G Elias: Que línea es??
+12/9/22, 10:37 - Sofi⚡calidad Software: La C7/C10 me surven las dos
+12/9/22, 10:37 - Sofi⚡calidad Software: Las dos son un desastre
+12/9/22, 10:38 - Cesar Calidad G Elias: Cercanías Madrid 👍
+12/9/22, 10:38 - Sofi⚡calidad Software: Yap xD
+12/9/22, 10:38 - Sofi⚡calidad Software: Pero a pozuelo no llega el metro sadly
+12/9/22, 10:41 - Cesar Calidad G Elias: <Media omitted>
+12/9/22, 11:02 - Luna calidad Software: Estoy en la cuarta fila a la izquierda
+12/9/22, 11:02 - Sofi⚡calidad Software: Ahora voy, em en 30 minutos tiene pinta
+12/9/22, 11:02 - Sofi⚡calidad Software: Que guay xX
+12/9/22, 11:03 - Mañas Calidad Software: Hay alguien por clase?
+12/9/22, 11:04 - Cesar Calidad G Elias: <Media omitted>
+12/9/22, 11:04 - Sofi⚡calidad Software: Llego, que es lo impprtante
+12/13/22, 16:07 - Sofi⚡calidad Software: Todo el mundo tiene claro lo que dice manana, no?
+12/13/22, 16:08 - Robert: Yo creo que sí
+12/13/22, 16:10 - Robert: A mi me toca dar la introducción y la estrategia  + mi proceso de elicitación
+12/13/22, 16:11 - Mañas Calidad Software: Mision+proceso de arquirectura
+12/13/22, 16:11 - Sofi⚡calidad Software: Y la pplitica de calidad
+12/13/22, 16:11 - Sofi⚡calidad Software: O lo cogió otra persona? Creo que fuiste tu
+12/13/22, 16:12 - Robert: No, la política, no
+12/13/22, 16:12 - Sofi⚡calidad Software: Quien cogió la politica entonces, pprque era lo que hicimos en grupo y alguien dijo "lo hago yo"
+12/13/22, 16:14 - Sofi⚡calidad Software: Y la visión?
+12/13/22, 16:15 - Cesar Calidad G Elias: Yo hago lo de los ods
+12/13/22, 16:15 - Cesar Calidad G Elias: ?
+12/13/22, 16:15 - Sofi⚡calidad Software: Y stakeholders
+12/13/22, 16:15 - Sofi⚡calidad Software: Y tu proceso claro
+12/13/22, 16:16 - Cesar Calidad G Elias: Hago lsstakeholders yo??
+12/13/22, 16:16 - Cesar Calidad G Elias: Vale vale
+12/13/22, 16:16 - Sofi⚡calidad Software: Claro, lo dijimos en clqse el ultimo dia
+12/13/22, 16:17 - Sofi⚡calidad Software: Vale esto era luna
+12/13/22, 16:18 - Luna calidad Software: Yo hago visión, organización y validación
+12/13/22, 16:18 - Sofi⚡calidad Software: Pues lo que se queda colgado es la politica de calidad
+12/13/22, 16:22 - Mañas Calidad Software: Puedo hacerlo yo si no es de nadie
+12/13/22, 16:22 - Sofi⚡calidad Software: Valep
+12/14/22, 09:22 - Robert: Cómo llevaís la presentación ? confiados ?
+12/14/22, 09:22 - Sofi⚡calidad Software: Odio presentar en publico, ayer tuve una pesadilla de esto
+12/14/22, 09:22 - Sofi⚡calidad Software: asi que eeem si
+12/14/22, 09:22 - Sofi⚡calidad Software: no diria confiada xD
+12/14/22, 09:23 - Robert: no pasa nada, pasará rápido
+Memorizar la parte de cada uno y saldrá bien
+12/14/22, 09:24 - Luna calidad Software: Hay que controlar bien el tiempo
+12/14/22, 09:24 - Luna calidad Software: Aunque bueno, como voy la última, si veo que vamos justos lo resumo mucho
+12/14/22, 09:25 - Luna calidad Software: El máximo eran 10 minutos?
+12/14/22, 09:25 - Sofi⚡calidad Software: si, yo lo he temporizado y son un poc menos de 3 minutos
+12/14/22, 09:25 - Sofi⚡calidad Software: nono son 3 minutos por persona
+12/14/22, 09:25 - Robert: Estoy mirando el orden, ahora cuando vayamos a clase, cuándo nos tocará presentar, después de qué grupo
+12/14/22, 09:25 - Sofi⚡calidad Software: somos los primeros
+12/14/22, 09:25 - Sofi⚡calidad Software: gracias a dios
+12/14/22, 09:25 - Luna calidad Software: Ah genial
+12/14/22, 09:25 - Luna calidad Software: Mejor en verdad
+12/14/22, 09:25 - Robert: eh ? los primeros ?
+12/14/22, 09:25 - Sofi⚡calidad Software: Recuerdo que dijimos que si
+12/14/22, 09:29 - Sofi⚡calidad Software: <Media omitted>
+12/14/22, 09:29 - Sofi⚡calidad Software: sip
+12/14/22, 09:30 - Robert: Vale
+12/14/22, 09:31 - Sofi⚡calidad Software: 7 grupos, va a estar justol la verdad, menos mal que vamos primero por eso tambien
+12/14/22, 10:23 - Robert: Chicos, os viene bien quedar 10 minutos antes ? Para dejarlo todo en orden
+12/14/22, 10:23 - Sofi⚡calidad Software: Vaep
+12/14/22, 10:23 - Robert: En frenre de la clase
+12/14/22, 10:27 - Mañas Calidad Software: Si llego si
+12/14/22, 10:30 - Cesar Calidad G Elias: Uf yo estoy yendo ahora a la uni
+12/14/22, 10:30 - Cesar Calidad G Elias: No sé si llego 10 min antes
+12/14/22, 10:32 - Luna calidad Software: Yo cuando salga de la clase anterior
+12/14/22, 10:47 - Mañas Calidad Software: Estamos
+12/14/22, 10:56 - Cesar Calidad G Elias: Estoy llegando
+12/14/22, 11:00 - Cesar Calidad G Elias: Estoy subiendo
+12/14/22, 12:54 - Robert: Voy a descargar el chat de WhatsApp
+12/14/22, 12:54 - Robert: Y tenerlo guardado
+12/14/22, 12:54 - Robert: Tampoco vamos a seguir hablando ya que el proyecto se ha terminado
+12/14/22, 12:54 - Robert: 🥰
+12/14/22, 12:55 - Cesar Calidad G Elias: <Media omitted>
+12/14/22, 12:58 - Luna calidad Software: Qué grupo estaba presentando ahora?
+12/14/22, 12:59 - Cesar Calidad G Elias: Niidea
+12/14/22, 13:00 - Cesar Calidad G Elias: Los que estan entre focault y russel
+12/15/22, 15:53 - Robert: Chicos, no olvidar hacer las encuestas de happimeter
+12/15/22, 15:53 - Robert: y lo que había que hacer más
+12/15/22, 15:56 - Mañas Calidad Software: Gracias por recordar
+12/15/22, 15:57 - Robert: https://moodle.upm.es/titulaciones/oficiales/mod/resource/view.php?id=487698
+12/15/22, 15:57 - Robert: AQUÍ pone todo lo que hay que hacer
+12/15/22, 16:16 - Luna calidad Software: Es verdad
+12/15/22, 16:23 - Sofi⚡calidad Software: Tambien tenemos que mandar los videos y el chat de whatsapp, si quereis lo hacmeos hoy
+12/15/22, 16:23 - Robert: Si, lo hago yo ahora
+He terminado las encuestas
+12/15/22, 16:23 - Robert: solo queda exportar el chat y las reuniones
+12/15/22, 16:24 - Robert: En 10 minutos os aviso que está todo hecho
