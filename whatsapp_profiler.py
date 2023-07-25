@@ -1,6 +1,6 @@
 from whatsapp_parser import WhatsParser
 import translators as ts
-from work_personality_classifier import identify_work_personality
+from untrained_bart_work_personality_classifier import identify_work_personality
 from tribe_personality_classifier import identify_tribe
 
 """
