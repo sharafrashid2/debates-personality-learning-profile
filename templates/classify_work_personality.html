@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Work Personality Classifier</title>
+</head>
+<body>
+    <h1>Test Phrases with Work Personality (Ant, Bee, Leech) Classifier</h1>
+    <form action="/classify_work_personality" method="post">
+        <label for="input_text2">Enter Text:</label><br>
+        <textarea name="input_text2" id="input_text2" cols="30" rows="10"></textarea><br>
+        <input type="submit" value="Analyze"><br>
+    </form>
+    <p>Result: {{ results }}</p>
+</body>
+</html>

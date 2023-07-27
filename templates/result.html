@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Analysis Results</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .phrases {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Text Analysis Results</h1>
+    <div id="personSelection"></div> <!-- This is where the selection box will be inserted -->
+    <div id="antBeeLeechChartContainer">
+        <h2>Ant, Bee, Leech Chart</h2>
+        <canvas id="antBeeLeechChart"></canvas>
+    </div>
+    <div id="fatherTreeNerdSpiritChartContainer">
+        <h2>Fatherlander, Treehugger, Nerd, Spiritualist Chart</h2>
+        <canvas id="fatherTreeNerdSpiritChart"></canvas>
+    </div>
+    <h2>Ant, Bee, Leech Phrases</h2>
+    <div id="antPhrases">
+    </div>
+    <h2>Fatherlander, Treehugger, Nerd, Spiritualist Phrases</h2>
+    <div id="fatherPhrases">
+    </div>
+
+    <script>
+        var results = '{{ results_json|safe }}';
+        results = JSON.parse(results)
+        console.log(results)
+        console.log(typeof results); // Print the results in the JavaScript console
+
+        // Create the selection box
+        var personSelect = document.createElement("select");
+        personSelect.id = "personSelect";
+
+        // Populate the selection box with person names as options
+        Object.keys(results).forEach(function(person) {
+            var option = document.createElement("option");
+            option.value = person;
+            option.text = person;
+            personSelect.appendChild(option);
+        });
+
+        // Append the selection box to the "personSelection" div
+        var personSelectionDiv = document.getElementById("personSelection");
+        personSelectionDiv.appendChild(personSelect);
+
+        var antBeeLeechChart = null;
+        var fatherTreeNerdSpiritChart = null;
+
+        // Function to draw the charts and display phrases based on selected person's data
+        function showCharts() {
+            var person = document.getElementById("personSelect").value;
+            var selectedData = results[person];
+            var antBeeLeechData = selectedData[0];
+            var fatherTreeNerdSpiritData = selectedData[1];
+
+            // Remove the existing canvas elements if they exist
+            removeCanvas("antBeeLeechChart");
+            removeCanvas("fatherTreeNerdSpiritChart");
+
+            // Create new canvas elements for the charts
+            createChartCanvas("antBeeLeechChart");
+            createChartCanvas("fatherTreeNerdSpiritChart");
+
+            // Create new pie charts
+            createPieChart("antBeeLeechChart", antBeeLeechData);
+            createPieChart("fatherTreeNerdSpiritChart", fatherTreeNerdSpiritData);
+
+            // Update the phrases display
+            displayPhrases("antPhrases", antBeeLeechData);
+            displayPhrases("fatherPhrases", fatherTreeNerdSpiritData);
+        }
+
+        function createPieChart(containerId, data) {
+            var ctx = document.getElementById(containerId).getContext('2d');
+            percentages = [];
+            for (const personality of Object.keys(data)) {
+                const categoryData = data[personality]
+                percentages.push(categoryData['percentage'])
+            }
+
+            // Destroy the current chart instance if it exists
+            if (containerId === 'antBeeLeechChart' && antBeeLeechChart) {
+                antBeeLeechChart.destroy();
+            } else if (containerId === 'fatherTreeNerdSpiritChart' && fatherTreeNerdSpiritChart) {
+                fatherTreeNerdSpiritChart.destroy();
+            }
+
+            var chart = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(data),
+                    datasets: [{
+                        data: percentages,
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.7)',
+                            'rgba(54, 162, 235, 0.7)',
+                            'rgba(75, 192, 192, 0.7)',
+                            'rgba(255, 206, 86, 0.7)'
+                        ],
+                        borderColor: [
+                            'rgba(255, 99, 132, 1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(255, 206, 86, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: false,
+                    maintainAspectRatio: false,
+                    legend: {
+                        display: true,
+                        position: 'right'
+                    }
+                }
+            });
+
+            // Update the corresponding global variable with the new chart instance
+            if (containerId === 'antBeeLeechChart') {
+                antBeeLeechChart = chart;
+            } else if (containerId === 'fatherTreeNerdSpiritChart') {
+                fatherTreeNerdSpiritChart = chart;
+            }
+        }
+        showCharts();
+
+        // Add event listener to call showCharts() when the selection box changes
+        document.getElementById("personSelect").addEventListener("change", showCharts);
+
+        function removeCanvas(canvasId) {
+            var canvas = document.getElementById(canvasId);
+            if (canvas) {
+                canvas.parentNode.removeChild(canvas);
+            }
+        }
+
+        function createChartCanvas(canvasId) {
+            var chartContainer = document.getElementById(canvasId + "Container");
+            var canvas = document.createElement("canvas");
+            canvas.id = canvasId;
+            chartContainer.appendChild(canvas);
+        }
+
+        function displayPhrases(containerId, data) {
+            var phrasesContainer = document.getElementById(containerId);
+            phrasesContainer.innerHTML = "";
+
+            for (var category in data) {
+                var categoryData = data[category];
+                var percentage = categoryData['percentage'];
+                var phrases = categoryData['phrases'];
+
+                var html = "<h3>" + category + "</h3>";
+                html += "<ul>";
+                for (var i = 0; i < phrases.length; i++) {
+                    html += "<li>" + phrases[i] + "</li>";
+                }
+                html += "</ul>";
+
+                phrasesContainer.innerHTML += html;
+            }
+        }
+    </script>
+    
+</body>
+</html>

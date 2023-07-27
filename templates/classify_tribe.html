@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Tribes Classifier </title>
+</head>
+<body>
+    <h1>Test Phrases with Tribes (Fatherlander, Treehugger, Nerd, Spiritualist) Classifier</h1>
+    <form action="/classify_tribe" method="post">
+        <label for="input_text1">Enter Text:</label><br>
+        <textarea name="input_text1" id="input_text1" cols="30" rows="10"></textarea><br>
+        <input type="submit" value="Analyze"><br>
+    </form>
+    <p>Result: {{ results }}</p>
+</body>
+</html>

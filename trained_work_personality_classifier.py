@@ -5,10 +5,10 @@ from transformers import DistilBertTokenizer
 import translators as ts
 
 # loading fine tuned tribe identifier model and tokenizer
-saved_model_weights = torch.load('./distilbert_torch_reddit_model/reddit_saved_model_weights.pth')
-saved_vocab_file = './distilbert_torch_reddit_model/vocab_distilbert_reddit_personalities.bin'
+saved_model_weights = torch.load('./distilbert_torch_spotify_antbeeleech_model/abl_saved_model_weights.pth')
+saved_vocab_file = './distilbert_torch_spotify_antbeeleech_model/vocab_distilbert_antbeeleech_work_personalities.bin'
 
-model = DistilBERTClass(4)
+model = DistilBERTClass(3)
 model.load_state_dict(saved_model_weights)
 tokenizer = DistilBertTokenizer.from_pretrained(saved_vocab_file)
 model.eval()
@@ -24,7 +24,7 @@ def translate_to_english(text: str) -> str:
 Function that makes an inference about the input_text about which Happimetrics tribe the text belongs to
 using the finetuned Reddit DistilBERT model.
 """
-def identify_tribe(input_text):
+def identify_work_personality(input_text):
     input_text = translate_to_english(input_text)
     inputs = tokenizer(input_text, return_tensors="pt", truncation=True, padding=True)
     # Get the input IDs and attention mask
@@ -36,6 +36,6 @@ def identify_tribe(input_text):
 
     # Get the predicted class
     predicted_class = torch.argmax(outputs, dim=1).item()
-    number_to_label = {0: 'treehugger', 1: 'spiritualist', 2: 'nerd', 3: 'fatherlander'}
+    number_to_label = {0: 'ant', 1: 'bee', 2: 'leech'}
 
     return number_to_label[predicted_class]

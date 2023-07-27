@@ -1,6 +1,6 @@
 from whatsapp_parser import WhatsParser
 import translators as ts
-from untrained_bart_work_personality_classifier import identify_work_personality
+from bart_work_personality_classifier import identify_work_personality
 from tribe_personality_classifier import identify_tribe
 
 """
@@ -21,13 +21,6 @@ def get_person_to_text_map(filepath: str) -> dict:
     return person_to_text_map
 
 """
-if the text is in Spanish, returns the translated text in English; otherwise, returns
-the same text that is inputted
-"""
-def translate_to_english(text: str) -> str:
-    return ts.translate_text(text)
-
-"""
 Categorizes each piece of text sent by the person as being either ant, leech, or bee
 and then returns the percentage of the texts that fall into each category as a dictionary
 """
@@ -40,7 +33,6 @@ def get_personality_profile(personality_types: list[str], texts: list[str]) -> l
         personality_to_texts[personality] = []
     
     for text in texts:
-        text = translate_to_english(text)
         if 'bee' in personality_types:
             personality_type = identify_work_personality(text)
         elif 'treehugger' in personality_types:
@@ -76,15 +68,24 @@ def profile_whatsapp_messages(filepath):
 
     for person, texts in person_to_text_map.items():
         work_personality_percentages, work_personality_to_texts = get_work_personality_profile(texts)
+        work_personality_dict = {}
+        for personality in work_personality_percentages:
+            work_personality_dict[personality] = {'percentage': work_personality_percentages[personality], 'phrases': work_personality_to_texts[personality]}
+        
         tribe_percentages, tribe_to_texts = get_tribe_personality_profile(texts)
-        person_to_personality_profile[person] = [work_personality_percentages, work_personality_to_texts, tribe_percentages, tribe_to_texts]
-        print(person)
-        print(work_personality_percentages)
-        print(work_personality_to_texts)
-        print(tribe_percentages) 
-        print(tribe_to_texts)
+        tribe_dict = {}
+        for tribe in tribe_percentages:
+            tribe_dict[tribe] = {'percentage': tribe_percentages[tribe], 'phrases': tribe_to_texts[tribe]}
 
+        person_to_personality_profile[person] = [work_personality_dict, tribe_dict]
+        # print(person)
+        # print(work_personality_percentages)
+        # print(work_personality_to_texts)
+        # print(tribe_percentages) 
+        # print(tribe_to_texts)
+
+    print(person_to_personality_profile)
     return person_to_personality_profile
 
-print(profile_whatsapp_messages('data-sets/whatsapp_beauvoir.txt'))
+# print(profile_whatsapp_messages('data-sets/whatsapp_beauvoir.txt'))
 
