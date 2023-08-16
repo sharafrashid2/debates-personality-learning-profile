@@ -17,8 +17,9 @@ distilbert_torch_spotify_antbeeleech_model
 The data-sets folder contains the labeled data_sets used to train the DistilBERT models.
 
 The interface is located in the file called "app.py". To launch the interface, simply run the app.py python file
-and then navigate to the local server that the terminal gives to host the interface. The associated html files for the interface
-are contained under the templates folder.
+and then navigate to the local server that the terminal gives to host the interface. The associated HTML files for the interface
+are contained under the templates folder. A sample WhatsApp text file to try out the WhatsApp analysis feature is located under
+the data-sets folder.
 
 The following files: bart_work_personality_classifier.py, trained_work_personality_classifier.py, tribe_personality_classifier.py
 all contain the functions that rely on the trained models to allow you to classify a piece of text.
