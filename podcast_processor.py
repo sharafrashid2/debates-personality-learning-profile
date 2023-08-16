@@ -1,7 +1,7 @@
 import os
 import json
 import pandas as pd
-from work_personality_classifier import label_text
+from bart_work_personality_classifier import identify_work_personality
 
 
 def aggregate_podcasts(directory):
@@ -24,7 +24,7 @@ def aggregate_podcasts(directory):
                             if not block['alternatives'][0]:
                                 continue
                             text = block['alternatives'][0]['transcript']
-                            label = label_text(text)
+                            label = identify_work_personality(text)
 
                             if label:
                                 combined_text.append(text)
